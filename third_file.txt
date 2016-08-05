@@ -1,2 +1,3 @@
 this is the third file
 editing this file
+diff between staging to repo:wq
