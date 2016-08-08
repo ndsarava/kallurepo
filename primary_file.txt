@@ -2,3 +2,8 @@ this is first file
 editing this file
 editing this second time
 diff between staging to repo
+a=100
+b=200
+c=300
+d=400
+e-10
